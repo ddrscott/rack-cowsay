@@ -1,0 +1,17 @@
+GEM
+  remote: https://rubygems.org/
+  specs:
+    cowsay (0.3.0)
+    puma (3.6.2)
+    rack (1.6.5)
+
+PLATFORMS
+  ruby
+
+DEPENDENCIES
+  cowsay
+  puma
+  rack (~> 1.6)
+
+BUNDLED WITH
+   1.12.5
